@@ -2,45 +2,48 @@
 layout: page
 title: CV
 ---
-
 # Research Experience
 My research interests lie in mathematical modelling and machine learning, with a focus on their application to cardiovascular sciences.
 
-My current work focuses on mathematical models of cardiac ion channels. Particularly in their optimisation. I have developed an open-source parameter optimisation benchmarking framework (link) to compare the efficiency of different parameter optimisation approaches (manuscript in preparation). Other projects include work on osmolarity, bifurcation analysis and continuation methods for parameter inference, and modelling hERG1b in cardiac ion channels.
+My current work focuses on mathematical models of cardiac ion channels. Particularly in their optimisation. I have developed an open-source parameter optimisation benchmarking framework ([link](https://github.com/CardiacModelling/ionBench)) to compare the efficiency of different parameter optimisation approaches (manuscript in preparation). Other projects include work on osmolarity, bifurcation analysis and continuation methods for parameter inference, and modelling hERG1b in cardiac ion channels.
 
-My PhD research consisted of analysis and construction of mathematical models for blood clotting (chemical kinetic ODE models). This included exploratory analysis (sensitivity analysis, timescale analysis, and comparison to patient data; Owen et al. 2024), statistical analysis (functional data analysis) and concluded in the construction of a new model which made use of parameter inference methods (ABC-SMC, gradient descent, and genetic algorithms; manuscript in preparation). This work was funded under an MRC IMPACT DTP Studentship award.
+My PhD research consisted of analysis and construction of mathematical models for blood clotting (chemical kinetic ODE models). This included exploratory analysis (sensitivity analysis, timescale analysis, and comparison to patient data; [Owen et al. 2024](https://www.jthjournal.org/article/S1538-7836(24)00167-3/fulltext)), statistical analysis (functional data analysis) and concluded in the construction of a new model which made use of parameter inference methods (ABC-SMC, gradient descent, and genetic algorithms; manuscript in preparation). This work was funded under an MRC IMPACT DTP Studentship award.
 
-Prior to commencing my MSc (summer of 2018), I was given the opportunity to work on a project to optimise a paediatric cardiovascular surgical procedure called the Fontan procedure. This work consisted of using ANSYS Fluent (Computational Fluid Dynamics software), coupled with original C code, to simulate and compare various plausible blood vessel configurations. I continued this work through my MSc year, culminating in a publication in May 2019 (Corno et al. 2019).
+Prior to commencing my MSc (summer of 2018), I was given the opportunity to work on a project to optimise a paediatric cardiovascular surgical procedure called the Fontan procedure. This work consisted of using ANSYS Fluent (Computational Fluid Dynamics software), coupled with original C code, to simulate and compare various plausible blood vessel configurations. I continued this work through my MSc year, culminating in a publication in May 2019 ([Corno et al. 2019](https://www.frontiersin.org/journals/pediatrics/articles/10.3389/fped.2019.00196/full)).
 
 # Education
 ## University of Nottingham (2019 – 2023)
 ### PhD Mathematics – ‘Personalised and Predictive Models of Thrombin Generation’
 MRC funded project, supervised by: John King and Etienne Farcot from the University of Nottingham; Alison Goodall and Joy Wright from the University of Leicester; and Joanne Dunster from the University of Reading.
 ## University of Leicester (2015 – 2019)
-### MSc Applied Computation and Numerical Modelling with Distinction.
-Key Modules: Topics in Mathematical Biology (99%), Scientific Computing (95%), Methods of Molecular Simulation (89%), Computational PDEs with Finite Elements (93%), Computational Fluid Dynamics (94%).
-Project: Methods in Autosomal DNA Matching (87%).
-### BSc Mathematics with First Class Honours.
-Key Modules: Data Mining and Neural Networks (82%), Mathematical Modelling (81%), Generalized Linear Models (94%). 
+### MSc Applied Computation and Numerical Modelling with Distinction (2018-2019)
+### BSc Mathematics with First Class Honours (2015-2018)
 
 # Research Roles
 ## University of Nottingham (Apr 2023 – Present)
 ### Research Associate in Developing Models of Cardiac Electrophysiology
-Post doctoral research associate on the grant “Developing cardiac electrophysiology models for drug safety studies” (Principal Investigator: Gary Mirams). 
+Post-doctoral research associate on the grant “Developing cardiac electrophysiology models for drug safety studies” (Principal Investigator: Gary Mirams). 
 
 # Teaching Roles
-## PGR Demonstrating and Teaching, University of Nottingham / Unitemps (Oct 2020 – August 2022)
+## University of Nottingham / Unitemps (Oct 2020 – August 2022)
+### PGR Demonstrating and Teaching, 
 Modules: Modelling with Differential Equations (2 years), Advanced Mathematical Modelling for Process Engineers (2 years), Probability Models and Methods (1 year), Mathematical Medicine and Biology (1 semester). 
-## Surgeries and Feedback Sessions, University of Leicester / Unitemps (Jan 2018 – Sep 2019)
+## University of Leicester / Unitemps (Jan 2018 – Sep 2019)
+### Surgeries and Feedback Sessions
 Modules: Linear Algebra II, Probability, Introductory Statistics (2 classes per module, 1 semester each). 
 
 # Publications
-Matt J. Owen, Joy R. Wright, Edward G. D. Tuddenham, John R. King, Alison H. Goodall, Joanne L. Dunster ‘Mathematical models of coagulation – are we there yet?’ (2024) Journal of Thrombosis and Haemostasis 22:6. Link.
-Antonio F. Corno, Matt J. Owen, Andrea Cangiani, Edward J. C. Hall, Aldo Rona ‘Physiological Fontan Procedure’ (2019) Frontiers in Pediatrics 7:196. Link.
+Matt J. Owen, Joy R. Wright, Edward G. D. Tuddenham, John R. King, Alison H. Goodall, Joanne L. Dunster ‘Mathematical models of coagulation – are we there yet?’ (2024) Journal of Thrombosis and Haemostasis 22:6. [Link](https://www.jthjournal.org/article/S1538-7836(24)00167-3/fulltext).
+
+Andrea Cangiani, Antonio F. Corno, Edward J. C. Hall, Matt J Owen, Aldo Rona ‘CFD study of physiological Fontan circulation’ (2020) VPH2020. [Link](https://figshare.le.ac.uk/articles/conference_contribution/CFD_study_of_physiological_Fontan_circulation/14292374).
+
+Antonio F. Corno, Matt J. Owen, Andrea Cangiani, Edward J. C. Hall, Aldo Rona ‘Physiological Fontan Procedure’ (2019) Frontiers in Pediatrics 7:196. [Link](https://www.frontiersin.org/journals/pediatrics/articles/10.3389/fped.2019.00196/full).
 
 # Conferences and Presentations
 Matt J. Owen, Gary R. Mirams ‘ionBench: Benchmarking optimsation for ion channel models.’ Poster presented at the Fickle Heart: The intersection of UQ, AI and Digital Twins workshop.
+
 Matt J. Owen, Joy Wright, Alison Goodall, Edward G. D. Tuddenham, John King, Joanne Dunster ‘Mathematical models of thrombin generation: A unified approach.’ Poster presented at the BSHT Annual Scientific Meeting 2023.
+
 Matt J. Owen, Joanne Dunster, Alison Goodall, Joy Wright, John King ‘The Strengths and Weaknesses of Mathematical Models of Thrombin Generation.’ Remote poster talk presented at the BSHT Virtual Scientific Meeting 2021.
 
 # Computing Experience
