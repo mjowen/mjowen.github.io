@@ -16,7 +16,7 @@ author:
   name:           'Matt J Owen'
   url:            https://twitter.com/MattJOwen_
 
-paginate:         5
+paginate:         500
 paginate_path:    "/blog/page:num/"
 
 # Custom vars
