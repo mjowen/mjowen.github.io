@@ -7,9 +7,11 @@ I am a mathematical biologist from the East Midlands, UK. My research interests 
 
 A large focus of my work lies in how to efficiently develop robust models of biological systems. This includes looking at parameter inference methods, model selection, and uncertainty quantification.
 
-I am currently working as a Research Associate at the University of Nottingham, investigating cardiac ion channel models. My current focus is on how to efficiently infer parameters for these models, comparing a range of different optimisation approaches through an open-source benchmarking framework ([ionBench](https://github.com/CardiacModelling/ionBench)).
+I am currently working as a Research Associate at the University of Bristol, developing software for synthetic biology. 
 
 # My previous work
+I was previously employed as a Research Associate at the University of Nottingham, investigating cardiac ion channel models; where the focus of my works was on how to efficiently infer parameters for these models, comparing a range of different optimisation approaches through an open-source benchmarking framework ([ionBench](https://github.com/CardiacModelling/ionBench)). I also investigated the use of continuation methods for improving the efficiency of optimisation cardiac action potential models [Link](https://arxiv.org/abs/2501.08355).
+
 My PhD research consisted of analysis and construction of mathematical models for blood clotting (chemical kinetic ODE models). We developed a model using ABC-SMC inference methods to quantify the uncertainty in the reaction rates. 
 
 Earlier work included optimising a paediatric cardiovascular surgical procedure called the Fontan procedure. This work consisted of using ANSYS Fluent to simulate and compare various plausible blood vessel configurations, looking to optimise energy loss to improve patient outcomes.
